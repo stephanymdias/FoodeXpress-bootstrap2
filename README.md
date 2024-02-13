@@ -4,9 +4,10 @@
 Página inicial de um aplicativo da web de entrega de alimentos. Ele apresenta uma variedade de itens alimentares para os usuários explorarem e pedirem.
 
 # Tecnologias 
-HTML, CSS, JavaScript: Linguagens principais para estrutura, estilo e funcionalidade.
-Bootstrap (v5.3.0): Melhora os componentes e o layout da interface do usuário.
-Ionicons (v4.5.10-0): Fornece ícones para o aplicativo.
+- HTML, CSS, JavaScript: Linguagens principais para estrutura, estilo e funcionalidade.
+
+- Bootstrap (v5.3.0): Melhora os componentes e o layout da interface do usuário.
+
 
 
 # LINK
